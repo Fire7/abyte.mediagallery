@@ -1,0 +1,19 @@
+<svg width="36" height="36" xmlns="http://www.w3.org/2000/svg">
+ <title>Rectangle 180</title>
+
+ <desc>Created with Sketch.</desc>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" fill-rule="evenodd" fill="none">
+   <g id="svg_2" fill="#000000">
+    <g id="svg_3">
+     <path fill="#ffffff" id="svg_4" d="m8,8l0,-8l28,0l0,28l-8,0l0,8l-28,0l0,-28l8,0l0,0zm4,0l0,-4l20,0l0,20l-4,0l0,-16l-16,0l0,0zm-8,4l0,20l20,0l0,-20l-20,0z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
